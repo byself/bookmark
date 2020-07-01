@@ -10,4 +10,4 @@
 
 ## 组件库设计
 - [组件库设计](https://github.com/iuap-design/tinper-bee/issues/14)
-- [组件库通用样式设计](https://zhuanlan.zhihu.com/p/47580297)
+- [组件库通用样式设计](https://juejin.im/post/5b40b33e6fb9a04fad39f980)
