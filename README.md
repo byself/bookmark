@@ -24,3 +24,5 @@
 ## 概念理解
 - [同步/异步/阻塞/非阻塞](https://blog.csdn.net/qq_36963372/article/details/83353017)
 - [怎样理解阻塞非阻塞与同步异步的区别](https://www.zhihu.com/question/19732473/answer/14413599)
+- [双向数据绑定和单向数据绑定](https://www.cnblogs.com/hanguidong/p/9533036.html)
+- [实现双向绑定Proxy比defineproperty优劣](https://www.jianshu.com/p/2df6dcddb0d7)
