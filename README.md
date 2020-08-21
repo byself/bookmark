@@ -20,3 +20,7 @@
 - [rrweb:网页录屏](https://github.com/rrweb-io/rrweb/blob/master/guide.zh_CN.md)
 - [stroybook:UI组件库挂管理平台](https://storybook.js.org/docs/configurations/cli-options/)
 - [doc2html](https://github.com/mwilliamson/mammoth.js)
+
+## 概念理解
+- [同步/异步/阻塞/非阻塞](https://blog.csdn.net/qq_36963372/article/details/83353017)
+- [怎样理解阻塞非阻塞与同步异步的区别](https://www.zhihu.com/question/19732473/answer/14413599)
