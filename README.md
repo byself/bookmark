@@ -4,6 +4,7 @@
 - [vue-router源码分析-整体流程](https://github.com/DDFE/DDFE-blog/issues/9)
 - [vue-router 源码分析-history](https://github.com/DDFE/DDFE-blog/issues/11)
 - [深入浅出Vue基于“依赖收集”的响应式原理](https://zhuanlan.zhihu.com/p/29318017)
+- [EventBus实现](https://juejin.im/post/6844903587043082247)
 
 
 ## 滴滴Blog
