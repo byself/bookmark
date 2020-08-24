@@ -6,8 +6,9 @@
 - [深入浅出Vue基于“依赖收集”的响应式原理](https://zhuanlan.zhihu.com/p/29318017)
 - [EventBus实现](https://juejin.im/post/6844903587043082247)
 - [编译原理](https://juejin.im/post/6844903941629558792#heading-5)
-- [源码分析]
+- 源码分析
   - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+  - [入口文件开始，分析Vue源码实现](https://juejin.im/post/6844903597759528973)
 
 
 ## 滴滴Blog
